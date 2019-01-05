@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Bucketlist</string>
+    <string name="action_settings">Settings</string>
+    <string name="additem">AddItem</string>
+</resources>
